@@ -41,16 +41,9 @@ in the `index.js` file.
 Support
 =================
 
-`BTC: 1PskTzQjmzqB2boz67AXsv4C5YNWN4xmhu`
+`BTC: 14qTg2ywfDtxe9McHujbb8MgShpvFdf6Jm`
 
-
-`LTC: LW2kXiquqDu3GfpfBX2xNTSgjVmBPu6g3z`
-
-
-`PPC: PNKZEkDf9eBSNebu2CcxHaGuma6wHuZEBh`
-
-
-`XPM: ARKZ7uVE1YS19HC8jSq5xZGkr6YAzugWBv`
+`LTC: LdLDd58xgLDpvcgYE7axB2oc1ahUiPvm1V`
 
 
 ```bash
